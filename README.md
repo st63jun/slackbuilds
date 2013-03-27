@@ -3,13 +3,13 @@ slackbuilds
 
 My SlackBuild repository.
 
-Packages
+Contents
 --------
 
-|-- libraries
-|   `-- libskk
-`-- misc
-    `-- ibus-skk
+    |-- libraries
+    |   `-- libskk
+    `-- misc
+        `-- ibus-skk
 
 Licence
 -------
