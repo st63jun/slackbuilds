@@ -1,0 +1,11 @@
+libskk: libskk 1.0.0 Japanese kana-to-kanji conversion library  
+libskk:  
+libskk: libskk is a GObject-based library to deal with Japanese kana-to-kanji 
+libskk: conversion method. libskk includes basic features of SKK, various 
+libskk: typing rules and dictionary types., GOBject based API with 
+libskk: gobject-introspection, and, experimental support for intelligent 
+libskk: kana-to-kanji conversion based on Viterbi algorithm.  
+libskk: 
+libskk: 
+libskk: 
+libskk: https://github.com/ueno/libskk  
