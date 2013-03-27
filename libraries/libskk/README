@@ -5,3 +5,6 @@ gobject-introspection, and, experimental support for intelligent
 kana-to-kanji conversion based on Viterbi algorithm.
 
 This software requires vala (1.4+), gobject-introspection.
+
+Homepage: https://github.com/ueno/libskk
+
