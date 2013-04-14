@@ -4,7 +4,8 @@ typing rules and dictionary types., GOBject based API with
 gobject-introspection, and, experimental support for intelligent
 kana-to-kanji conversion based on Viterbi algorithm.
 
-This software requires vala (0.14+), gobject-introspection.
+This software requires vala (0.14+), gobject-introspection, libgee,
+gnome-common, json-glib.
 
 Homepage: https://github.com/ueno/libskk
 
